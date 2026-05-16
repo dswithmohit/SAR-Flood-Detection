@@ -1,0 +1,16 @@
+# Data Engines
+earthengine-api
+geopandas
+rasterio
+
+# Math & ML
+numpy
+pandas
+scikit-learn
+scipy
+
+# UI & Viz
+streamlit
+leafmap
+matplotlib
+seaborn
