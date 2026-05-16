@@ -2,6 +2,7 @@
 earthengine-api
 geopandas
 rasterio
+geemap
 
 # Math & ML
 numpy
